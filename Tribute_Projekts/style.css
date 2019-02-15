@@ -1,0 +1,41 @@
+body {
+    font-family: Noteworthy;
+    padding: 50px;
+    background: whitesmoredke;
+}
+
+.topnav {
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.topnav a:hover {
+  background-color: rgb(68, 68, 104);
+  color: rgb(68, 68, 104);
+}
+
+.footer {
+  background-color: rgb(68, 68, 104);
+}
+
+a:link, a:visited {
+    background-color: #5a5b70;
+    color: white;
+    padding: 13px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: rgb(235, 225, 225);
+  }
